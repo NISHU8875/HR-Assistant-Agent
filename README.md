@@ -493,7 +493,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **NISHU KUMAR**
 
 - GitHub: [My Github Profile](https://github.com/NISHU8875)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nishu-kumar-b7a7b4247/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nishu73/)
 - Email: nishantranjan8875@gmail.com
 
 
